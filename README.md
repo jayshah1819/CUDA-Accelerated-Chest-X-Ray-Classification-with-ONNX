@@ -1,6 +1,4 @@
-# CUDA-Accelerated-Chest-X-Ray-Classification-with-ONNXAbsolutely! Here’s a **more human-friendly, readable version** of your README that sounds like a real person wrote it rather than a technical document:
-
----
+# CUDA-Accelerated-Chest-X-Ray-Classification-with-ONNXAbsolutely!
 
 # CUDA-Accelerated Chest X-Ray Classification with ONNX
 
@@ -110,6 +108,3 @@ inference_time_ms = (end - start) * 1000
 
 ---
 
-If you want, I can also **write a short “LinkedIn/Resume-friendly” version** of this README in 2–3 lines that immediately highlights your CUDA + ONNX skills for recruiters.
-
-Do you want me to do that?
