@@ -1,6 +1,6 @@
 # CUDA-Accelerated-Chest-X-Ray-Classification-with-ONNX!
 
-# CUDA-Accelerated Chest X-Ray Classification with ONNX
+
 
 ## About the Project
 
